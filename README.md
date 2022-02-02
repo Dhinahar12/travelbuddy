@@ -17,7 +17,7 @@
 
 <br>
 
-## Find the app [here](https://travelbuddy01.herokuapp.com/).
+## Find the site [here](https://travelbuddy01.herokuapp.com/).
 
 <br>
 
