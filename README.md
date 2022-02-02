@@ -5,6 +5,7 @@
 </div>
 <br> 
 <br>
+## Demo
 
 
 ![Demo](https://github.com/Dhinahar12/travelbuddy/blob/main/gif/travel.gif)
